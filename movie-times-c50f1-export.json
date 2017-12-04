@@ -1,94 +1,171 @@
 {
   "movies" : {
     "89d9737d67580511" : {
-      "genre" : [ "Scifi", "Fantasy" ],
+      "genre" : [ "Adventure", "Animation", "Comedy", "Family" ],
       "id" : "89d9737d67580511",
-      "imdb" : "http://www.youtube.com/watch?v=tt08BH9COsI",
-      "name" : "Star Wars: The Force Awakens",
-      "rating" : "PG-13",
-      "runtime" : "2hr 16min",
+      "imdb" : "http://www.imdb.com/title/tt2380307/",
+      "name" : "Coco",
+      "synopsis": "Despite his family's generations-old ban on music, young Miguel dreams of becoming an accomplished musician like his idol Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead. After meeting a charming trickster named Héctor, the two new friends embark on an extraordinary journey to unlock the real story behind Miguel's family history.",
+      "rating" : "M",
+      "runtime" : "2h 08m",
       "showtimes" : {
         "4c9f211a0800ff36" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
       },
-      "trailer" : "http://www.imdb.com/title/tt2488496/"
+      "trailer" : "https://www.youtube.com/watch?v=Ga6RYejo6Hk"
     },
     "cfbfd1f634e7638a" : {
-      "genre" : [ "Scifi", "Fantasy" ],
+      "genre" : [ "Action", "Adventure" ],
       "id" : "cfbfd1f634e7638a",
-      "imdb" : "http://www.youtube.com/watch?v=tt08BH9COsI",
-      "name" : "Star Wars: The Force Awakens 3D",
-      "rating" : "PG-13",
-      "runtime" : "2hr 16min",
+      "imdb" : "http://www.imdb.com/title/tt0974015/",
+      "name" : "Justice League",
+      "synopsis" : "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists newfound ally Diana Prince to face an even greater threat. Together, Batman and Wonder Woman work quickly to recruit a team to stand against this newly awakened enemy. Despite the formation of an unprecedented league of heroes -- Batman, Wonder Woman, Aquaman, Cyborg and the Flash -- it may be too late to save the planet from an assault of catastrophic proportions.",
+      "rating" : "M",
+      "runtime" : "2h 01m",
       "showtimes" : {
         "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
         "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
       },
-      "trailer" : "http://www.imdb.com/title/tt2488496/"
+      "trailer" : "https://www.youtube.com/watch?v=r9-DM9uBtVI"
     },
     "cfbfd1f634e7638c" : {
-      "genre" : [ "Scifi", "Fantasy" ],
+      "genre" : [ "Drama", "Family" ],
       "id" : "cfbfd1f634e7638c",
-      "imdb" : "http://www.youtube.com/watch?v=tt08BH9COsI",
-      "name" : "Star Wars: The Force Awakens 3D",
-      "rating" : "PG-13",
-      "runtime" : "2hr 16min",
+      "imdb" : "http://www.imdb.com/title/tt2543472",
+      "name" : "Wonder",
+      "synopsis" : "Based on the New York Times bestseller, WONDER tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters fifth grade, attending a mainstream elementary school for the first time.",
+      "rating" : "M",
+      "runtime" : "1h 53m",
       "showtimes" : {
         "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
         "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
       },
-      "trailer" : "http://www.imdb.com/title/tt2488496/"
+      "trailer" : "https://www.youtube.com/watch?v=Ob7fPOzbmzE"
     },
     "cfbfd1f634e7638d" : {
-      "genre" : [ "Scifi", "Fantasy" ],
+      "genre" : [ "Adventure", "Fantasy" ],
       "id" : "cfbfd1f634e7638d",
-      "imdb" : "http://www.youtube.com/watch?v=tt08BH9COsI",
-      "name" : "Star Wars: The Force Awakens 3D",
-      "rating" : "PG-13",
-      "runtime" : "2hr 16min",
+      "imdb" : "http://www.imdb.com/title/tt3501632",
+      "name" : "Thor: Ragnarok",
+      "synopsis": "Imprisoned on the other side of the universe, the mighty Thor finds himself in a deadly gladiatorial contest that pits him against the Hulk, his former ally and fellow Avenger. Thor's quest for survival leads him in a race against time to prevent the all-powerful Hela from destroying his home world and the Asgardian civilization.",
+      "rating" : "M",
+      "runtime" : "2h 10m",
       "showtimes" : {
         "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
         "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
       },
-      "trailer" : "http://www.imdb.com/title/tt2488496/"
+      "trailer" : "https://www.youtube.com/watch?v=ue80QwXMRHg"
     },
     "cfbfd1f634e7638e" : {
-      "genre" : [ "Scifi", "Fantasy" ],
+      "genre" : [ "Action", "Scifi" ],
       "id" : "cfbfd1f634e7638e",
-      "imdb" : "http://www.youtube.com/watch?v=tt08BH9COsI",
-      "name" : "Star Wars: The Force Awakens 3D",
-      "rating" : "PG-13",
-      "runtime" : "2hr 16min",
+      "imdb" : "http://www.imdb.com/title/tt2527336/",
+      "name" : "Star Wars: The Last Jedi",
+      "synopsis": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+      "rating" : "M",
+      "runtime" : "2h 30m",
       "showtimes" : {
         "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
         "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
       },
-      "trailer" : "http://www.imdb.com/title/tt2488496/"
+      "trailer" : "https://www.youtube.com/watch?v=Gn0WzX3OcAU"
     },
     "cfbfd1f634e7638f" : {
-      "genre" : [ "Scifi", "Fantasy" ],
+      "genre" : [ "Drama" ],
       "id" : "cfbfd1f634e7638f",
-      "imdb" : "http://www.youtube.com/watch?v=tt08BH9COsI",
-      "name" : "Star Wars: The Force Awakens 3D",
-      "rating" : "PG-13",
-      "runtime" : "2hr 16min",
+      "imdb" : "http://www.imdb.com/title/tt3402236",
+      "name" : "Murder On The Orient Express",
+      "synopsis" : "A lavish trip through Europe quickly unfolds into a race against time to solve a murder aboard a train. When an avalanche stops the Orient Express dead in its tracks, the world's greatest detective -- Hercule Poirot -- arrives to interrogate all passengers and search for clues before the killer can strike again.",
+      "rating" : "M",
+      "runtime" : "1h 55m",
       "showtimes" : {
         "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
         "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
       },
-      "trailer" : "http://www.imdb.com/title/tt2488496/"
+      "trailer" : "https://www.youtube.com/watch?v=Mq4m3yAoW8E"
     },
     "cfbfd1f634e7638g" : {
-      "genre" : [ "Scifi", "Fantasy" ],
+      "genre" : [ "Comedy" ],
       "id" : "cfbfd1f634e7638g",
-      "imdb" : "http://www.youtube.com/watch?v=tt08BH9COsI",
-      "name" : "Star Wars: The Force Awakens 3D",
-      "rating" : "PG-13",
-      "runtime" : "2hr 16min",
+      "imdb" : "http://www.imdb.com/title/tt5657846",
+      "name" : "Daddy's Home 2",
+      "synopsis" : "Father and stepfather Dusty and Brad join forces to make Christmastime perfect for the children. Their newfound partnership soon gets put to the test when Dusty's old-school, macho dad and Brad's gentle father arrive to turn the holiday upside down. After a sudden change in plans, the four men decide to take the kids to a luxury resort for a fun-filled getaway that turns into a hilariously chaotic adventure.",
+      "rating" : "M",
+      "runtime" : "1h 40m",
       "showtimes" : {
         "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
         "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
       },
-      "trailer" : "http://www.imdb.com/title/tt2488496/"
+      "trailer" : "https://www.youtube.com/watch?v=kgnDs3vSTV8"
+    },
+    "cfbfd1f634e7638h" : {
+      "genre" : [ "Animation" ],
+      "id" : "cfbfd1f634e7638g",
+      "imdb" : "http://www.imdb.com/title/tt4587656",
+      "name" : "The Star",
+      "synopsis" : "In Sony Pictures Animation's The Star, a small but brave donkey named Bo yearns for a life beyond his daily grind at the village mill. One day he finds the courage to break free, and finally goes on the adventure of his dreams. On his journey, he teams up with Ruth, a loveable sheep who has lost her flock and Dave, a dove with lofty aspirations. Along with three wisecracking camels and some eccentric stable animals, Bo and his new friends follow the Star and become accidental heroes in the greatest story ever told - the first Christmas.",
+      "rating" : "G",
+      "runtime" : "1h 26m",
+      "showtimes" : {
+        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
+        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+      },
+      "trailer" : "https://www.youtube.com/watch?v=o1eeu7Y4hxQ"
+    },
+    "cfbfd1f634e7638i" : {
+      "genre" : [ "Classic", "Drama" ],
+      "id" : "cfbfd1f634e7638g",
+      "imdb" : "http://www.imdb.com/title/tt4925292/",
+      "name" : "Lady Bird",
+      "synopsis" : "Marion McPherson, a California nurse, works tirelessly to keep her family afloat after her husband loses his job. She also maintains a turbulent bond with a teenage daughter who is just like her -- loving, strong-willed and deeply opinionated.",
+      "rating" : "14+",
+      "runtime" : "1h 33m",
+      "showtimes" : {
+        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
+        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+      },
+      "trailer" : "https://www.youtube.com/watch?v=cNi_HC839Wo"
+    },
+    "cfbfd1f634e7638j" : {
+      "genre" : [ "Comedy", "Horror" ],
+      "id" : "cfbfd1f634e7638g",
+      "imdb" : "http://www.imdb.com/title/tt4515762/",
+      "name" : "Another Wolfcop",
+      "synopsis" : "An alcoholic cop experiences blackouts and starts turning into a werewolf when the full moon appears in the sky.",
+      "rating" : "M",
+      "runtime" : "1h 40m",
+      "showtimes" : {
+        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
+        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+      },
+      "trailer" : "https://www.youtube.com/watch?v=dW12shHwhw8"
+    },
+    "cfbfd1f634e7638k" : {
+      "genre" : [ "Comedy" ],
+      "id" : "cfbfd1f634e7638g",
+      "imdb" : "http://www.imdb.com/title/tt5657846",
+      "name" : "Daddy's Home 2",
+      "synopsis" : "Father and stepfather Dusty and Brad join forces to make Christmastime perfect for the children. Their newfound partnership soon gets put to the test when Dusty's old-school, macho dad and Brad's gentle father arrive to turn the holiday upside down. After a sudden change in plans, the four men decide to take the kids to a luxury resort for a fun-filled getaway that turns into a hilariously chaotic adventure.",
+      "rating" : "M",
+      "runtime" : "1h 40m",
+      "showtimes" : {
+        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
+        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+      },
+      "trailer" : "https://www.youtube.com/watch?v=kgnDs3vSTV8"
+    },
+    "cfbfd1f634e7638l" : {
+      "genre" : [ "Comedy" ],
+      "id" : "cfbfd1f634e7638g",
+      "imdb" : "http://www.imdb.com/title/tt5657846",
+      "name" : "Daddy's Home 2",
+      "synopsis" : "Father and stepfather Dusty and Brad join forces to make Christmastime perfect for the children. Their newfound partnership soon gets put to the test when Dusty's old-school, macho dad and Brad's gentle father arrive to turn the holiday upside down. After a sudden change in plans, the four men decide to take the kids to a luxury resort for a fun-filled getaway that turns into a hilariously chaotic adventure.",
+      "rating" : "M",
+      "runtime" : "1h 40m",
+      "showtimes" : {
+        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
+        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+      },
+      "trailer" : "https://www.youtube.com/watch?v=kgnDs3vSTV8"
     }
   },
   "theatres" : {
