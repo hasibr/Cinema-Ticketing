@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="movie-times">
 
 <head>
     <meta charset="UTF-8">
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
 
 </head>
 
@@ -13,8 +13,14 @@
 
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js'></script>
-    <script src="/node_modules/angular/angular.js"></script>
-    <script src="/node_modules/js/angular-ui-router.min.js"></script>    
+    <!-- Angular dependencies --> 
+    <script src="./node_modules/angular/angular.min.js"></script>
+    <script src="./node_modules/angular-ui-router/release/angular-ui-router.min.js"></script>  
+    <!-- Angular app files --> 
+    <script src="./app.module.js"></script> 
+    <script src="./controllers/controllers.js"></script> 
+    <script src="./directives/directives.js"></script> 
+    <script src="./services/services.js"></script> 
     <script src="js/index.js"></script>
 
 </body>
