@@ -2,7 +2,7 @@
   <div class="row">
     <div class="carousel-showmanymoveone" uib-carousel active="active" interval="myInterval" no-wrap="noWrapSlides">
       <div uib-slide ng-repeat="chunk in movies" index="$index">
-        <div class="col-xs-12 col-sm-6 col-md-2" ng-repeat="movie in chunk">
+        <div class="col-xs-12 col-sm-6 col-md-2" ng-repeat="movie in chunk" ng-click="setSelectedMovie(movie)">
           <img class="img-responsive" ng-src="../assets/img/movie_posters/{{formatImgName(movie.name)}}">
           <div class="carousel-caption">
             <h4>{{movie.name}}</h4>
@@ -12,14 +12,34 @@
       </div>
     </div>
   </div>
+  <div class="row" ng-show="selectedMovie">
+    <div class="col-sm-12">
+      <h5>{{selectedMovie.name}}</h5>
+      <p>{{selectedMovie.synopsis}}</p>
+    </div>
+  </div>
 </div>
 
 <div>
-  <div class="container">
+  <div class="container typeahead-demo">
     <div class="row">
       <h3>Ticket</h3>
-      <div class="col-sm-6">
-        1/2
+      <div class="col-sm-6" >
+        <h4>Where do you want watch your movie?</h4>
+        <input ng-model="selectedTheatre" type="text" list="theatres" autocomplete="off" placeholder="Type or Select Theatre or City" class="theatre-datalist" ng-change="filterMovies()" />
+        <datalist id="theatres">
+          <option ng-repeat="theatre in theatres" value="{{theatre.name}}">{{theatre.address}}</option>
+        </datalist>
+
+        <h4>What movie would you like to see?</h4>
+        <input type="text" list="movies" autocomplete="off" placeholder="Type or Select Movie" class="theatre-datalist" />
+        <datalist id="movies">
+          <option ng-repeat="movie in filteredMovies">{{movie.name}}</option>
+        </datalist>
+  
+        <div class="day-select">
+          <input id="date" type="date" min="2017-11-30" max="2017-12-07">
+        </div>
       </div>
       <div class="col-sm-6">
         2/2
@@ -27,3 +47,20 @@
     </div>
   </div>
 </div>
+
+<!-- <script type="text/ng-template" id="customPopupTemplate.html">
+  <div class="custom-popup-wrapper"
+     ng-style="{top: position().top+'px', left: position().left+'px'}"
+     style="display: block;"
+     ng-show="isOpen() && !moveInProgress"
+     aria-hidden="{{!isOpen()}}">
+    <p class="message">Select location from drop down.</p>
+
+    <ul class="dropdown-menu" role="listbox">
+      <li class="uib-typeahead-match" ng-repeat="match in matches track by $index" ng-class="{active: isActive($index) }"
+        ng-mouseenter="selectActive($index)" ng-click="selectMatch($index)" role="option" id="{{::match.id}}">
+        <div uib-typeahead-match index="$index" match="match" query="query" template-url="templateUrl"></div>
+      </li>
+    </ul>
+  </div>
+</script> -->

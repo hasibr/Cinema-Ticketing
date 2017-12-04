@@ -140,3 +140,13 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
         left: 0;
     }
 }
+
+.theatre-datalist {
+    width: 100%;
+    height: 40px;
+    border-radius: 2px;
+    border: solid;
+    color: black;
+    padding: 0 8px;
+    margin: 8px 4px;
+}
