@@ -140,32 +140,74 @@
       "trailer" : "https://www.youtube.com/watch?v=dW12shHwhw8"
     },
     "cfbfd1f634e7638k" : {
-      "genre" : [ "Comedy" ],
+      "genre" : [ "Biography", "Comedy", "Drama" ],
       "id" : "cfbfd1f634e7638g",
-      "imdb" : "http://www.imdb.com/title/tt5657846",
-      "name" : "Daddy's Home 2",
-      "synopsis" : "Father and stepfather Dusty and Brad join forces to make Christmastime perfect for the children. Their newfound partnership soon gets put to the test when Dusty's old-school, macho dad and Brad's gentle father arrive to turn the holiday upside down. After a sudden change in plans, the four men decide to take the kids to a luxury resort for a fun-filled getaway that turns into a hilariously chaotic adventure.",
+      "imdb" : "http://www.imdb.com/title/tt3521126",
+      "name" : "The Disaster Artist",
+      "synopsis" : "Tommy Wiseau and Greg Sestero become friends after meeting each other in an acting class in San Francisco. Hoping to achieve Hollywood stardom, Sestero moves to Los Angeles and signs on to appear in his buddy's project. Financed with his own money, Wiseau writes, directs and stars in \"The Room,\" a critically maligned movie that becomes a cult classic.",
       "rating" : "M",
-      "runtime" : "1h 40m",
+      "runtime" : "1h 44m",
       "showtimes" : {
         "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
         "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
       },
-      "trailer" : "https://www.youtube.com/watch?v=kgnDs3vSTV8"
+      "trailer" : "https://www.youtube.com/watch?v=4qab3TMg42k"
     },
     "cfbfd1f634e7638l" : {
-      "genre" : [ "Comedy" ],
+      "genre" : [ "Biography", "Drama" ],
       "id" : "cfbfd1f634e7638g",
-      "imdb" : "http://www.imdb.com/title/tt5657846",
-      "name" : "Daddy's Home 2",
-      "synopsis" : "Father and stepfather Dusty and Brad join forces to make Christmastime perfect for the children. Their newfound partnership soon gets put to the test when Dusty's old-school, macho dad and Brad's gentle father arrive to turn the holiday upside down. After a sudden change in plans, the four men decide to take the kids to a luxury resort for a fun-filled getaway that turns into a hilariously chaotic adventure.",
+      "imdb" : "http://www.imdb.com/title/tt6225520",
+      "name" : "The Man Who Invented Christmas",
+      "synopsis" : "Using real-life inspiration and a vivid imagination, author Charles Dickens brings Ebenezer Scrooge, Tiny Tim and other classic characters to life in \"A Christmas Carol,\" forever changing the holiday season into the celebration known today.",
       "rating" : "M",
-      "runtime" : "1h 40m",
+      "runtime" : "1h 45m",
       "showtimes" : {
         "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
         "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
       },
-      "trailer" : "https://www.youtube.com/watch?v=kgnDs3vSTV8"
+      "trailer" : "https://www.youtube.com/watch?v=xmBfjacqmTY"
+    },
+    "cfbfd1f634e7638m" : {
+      "genre" : [ "Action", "Adventure" ],
+      "id" : "cfbfd1f634e7638g",
+      "imdb" : "http://www.imdb.com/title/tt6000478",
+      "name" : "Roman J. Israel, Esq.",
+      "synopsis" : "Roman J. Israel, Esq. is set in the underbelly of the overburdened Los Angeles criminal court system. Denzel Washington stars as a driven, idealistic defense attorney whose life is upended when his mentor, a civil rights icon, dies. When he is recruited to join a firm led by one of the legendary man’s former students – the ambitious lawyer George Pierce (Colin Farrell) – and begins a friendship with a young champion of equal rights (Carmen Ejogo), a turbulent series of events ensue that will put the activism that has defined Roman’s career to the test.",
+      "rating" : "M",
+      "runtime" : "2h 02m",
+      "showtimes" : {
+        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
+        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+      },
+      "trailer" : "https://www.youtube.com/watch?v=T7zfdRHeSxA"
+    },
+    "cfbfd1f634e7638n" : {
+      "genre" : [ "Comedy", "Drama" ],
+      "id" : "cfbfd1f634e7638g",
+      "imdb" : "http://www.imdb.com/title/tt5027774",
+      "name" : "Three Billboards Outside Ebbing, Missouri",
+      "synopsis" : "After months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at William Willoughby, the town's revered chief of police. When his second-in-command, Officer Dixon -- an immature mother's boy with a penchant for violence -- gets involved, the battle is only exacerbated.",
+      "rating" : "M",
+      "runtime" : "1h 56m",
+      "showtimes" : {
+        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
+        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+      },
+      "trailer" : "https://www.youtube.com/watch?v=Jit3YhGx5pU"
+    },
+    "cfbfd1f634e7638o" : {
+      "genre" : [ "Comedy" ],
+      "id" : "cfbfd1f634e7638g",
+      "imdb" : "http://www.imdb.com/title/tt6359956",
+      "name" : "A Bad Moms Christmas",
+      "synopsis" : "Under-appreciated and overburdened moms Amy, Kiki and Carla rebel against the challenges and expectations of the Super Bowl for moms: Christmas. As if creating the perfect holiday for their families isn't hard enough, they'll have to do it while hosting and entertaining their own respective mothers when they come to visit.",
+      "rating" : "M",
+      "runtime" : "1h 41m",
+      "showtimes" : {
+        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
+        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+      },
+      "trailer" : "https://www.youtube.com/watch?v=FJdNdMOblaM"
     }
   },
   "theatres" : {
