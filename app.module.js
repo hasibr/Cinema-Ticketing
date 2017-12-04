@@ -7,7 +7,7 @@ const config = {
 
 firebase.initializeApp(config);
 
-var app = angular.module('movie-times', ['ui.router', 'firebase']);
+var app = angular.module('movie-times', ['ui.router', 'firebase', 'ui.bootstrap']);
 
 app.run(function($rootScope, $state, $sce) {
   $rootScope.safeApply = function(fn) {

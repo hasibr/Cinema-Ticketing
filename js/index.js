@@ -1,24 +1,25 @@
 // initialize_movie_gallery();
 
-// (function(){
-//   $('.carousel-showmanymoveone .item').each(function(){
-//     var itemToClone = $(this);
+(function(){
+  // $('.carousel-showmanymoveone .item').each(function(){
+  //   var itemToClone = $(this);
+  //   console.log(itemToClone)
 
-//     for (var i=1;i<6;i++) {
-//       itemToClone = itemToClone.next();
+  //   for (var i=1;i<6;i++) {
+  //     itemToClone = itemToClone.next();
 
-//       // wrap around if at end of item collection
-//       if (!itemToClone.length) {
-//         itemToClone = $(this).siblings(':first');
-//       }
+  //     // wrap around if at end of item collection
+  //     if (!itemToClone.length) {
+  //       itemToClone = $(this).siblings(':first');
+  //     }
 
-//       // grab item, clone, add marker class, add to collection
-//       itemToClone.children(':first-child').clone()
-//         .addClass("cloneditem-"+(i))
-//         .appendTo($(this));
-//     }
-//   });
-// }());
+  //     // grab item, clone, add marker class, add to collection
+  //     itemToClone.children(':first-child').clone()
+  //       .addClass("cloneditem-"+(i))
+  //       .appendTo($(this));
+  //   }
+  // });
+}());
 
 // function initialize_movie_gallery() {
 //   imageDir = "resources/movie_posters/"
@@ -70,11 +71,11 @@
 //   }
 // }
 
-// /*  Function which unhides the movie description <div> and updates it with the
-//     movie synopsys and trailer link, is called when an item from gallery is clicked
-// */
-// $('.img-responsive').click(function() {
+/*  Function which unhides the movie description <div> and updates it with the
+    movie synopsys and trailer link, is called when an item from gallery is clicked
+*/
+$('.img-responsive').click(function() {
 
-//   MyFunction();
-//   return false;
-// });
+  MyFunction();
+  return false;
+});

@@ -1,70 +1,28 @@
 <div class="container">
   <div class="row">
-    <div class="col-md-12">
-      <div class="carousel carousel-showmanymoveone slide" id="carousel-tilenav" data-interval="false">
-        <div id="carousel_items" class="carousel-inner">
-          <!--
-                  <div class="item active">
-                      <div class="col-xs-12 col-sm-6 col-md-2">
-                        <a href="#"><img src="http://placehold.it/500/0054A6/fff/&amp;text=1" class="img-responsive"></a>
-                      </div>
-                  </div>
-                  <div class="item">
-                      <div class="col-xs-12 col-sm-6 col-md-2">
-                          <a href="#"><img src="http://placehold.it/500/002d5a/fff/&amp;text=2" class="img-responsive"></a>
-                      </div>
-                  </div>
-                  <div class="item">
-                      <div class="col-xs-12 col-sm-6 col-md-2">
-                          <a href="#"><img src="http://placehold.it/500/d6d6d6/333&amp;text=3" class="img-responsive"></a>
-                      </div>
-                  </div>
-                  <div class="item">
-                      <div class="col-xs-12 col-sm-6 col-md-2">
-                          <a href="#"><img src="http://placehold.it/500/002040/eeeeee&amp;text=4" class="img-responsive"></a>
-                      </div>
-                  </div>
-                  <div class="item">
-                      <div class="col-xs-12 col-sm-6 col-md-2">
-                          <a href="#"><img src="http://placehold.it/500/0054A6/fff/&amp;text=5" class="img-responsive"></a>
-                      </div>
-                  </div>
-                  <div class="item">
-                      <div class="col-xs-12 col-sm-6 col-md-2">
-                          <a href="#"><img src="http://placehold.it/500/002d5a/fff/&amp;text=6" class="img-responsive"></a>
-                      </div>
-                  </div>
-                  <div class="item">
-                      <div class="col-xs-12 col-sm-6 col-md-2">
-                          <a href="#"><img src="http://placehold.it/500/eeeeee&amp;text=7" class="img-responsive"></a>
-                      </div>
-                  </div>
-                  <div class="item">
-                      <div class="col-xs-12 col-sm-6 col-md-2">
-                          <a href="#"><img src="http://placehold.it/500/40a1ff/002040&amp;text=8" class="img-responsive"></a>
-                      </div>
-                  </div>
-                -->
+    <div class="carousel-showmanymoveone" uib-carousel active="active" interval="myInterval" no-wrap="noWrapSlides">
+      <div uib-slide ng-repeat="chunk in movies" index="$index">
+        <div class="col-xs-12 col-sm-6 col-md-2" ng-repeat="movie in chunk">
+          <img class="img-responsive" ng-src="../assets/img/movie_posters/{{formatImgName(movie.name)}}">
+          <div class="carousel-caption">
+            <h4>{{movie.name}}</h4>
+            <p>{{movie.genre.join(', ')}}</p>
+          </div>
         </div>
-        <a class="left carousel-control" href="#carousel-tilenav" data-slide="prev">
-          <i class="glyphicon glyphicon-chevron-left"></i>
-        </a>
-        <a class="right carousel-control" href="#carousel-tilenav" data-slide="next">
-          <i class="glyphicon glyphicon-chevron-right"></i>
-        </a>
       </div>
     </div>
   </div>
-
 </div>
 
-<div class="search-form">
-  <div class="container-fluid">
+<div>
+  <div class="container">
     <div class="row">
-      <div class="col-lg-6 search-fields">
+      <h3>Ticket</h3>
+      <div class="col-sm-6">
+        1/2
       </div>
-      <div class="col-lg-6 time-format-selection">
-        Container Right
+      <div class="col-sm-6">
+        2/2
       </div>
     </div>
   </div>
