@@ -1,0 +1,25 @@
+ Volume in drive D has no label.
+ Volume Serial Number is CCE5-5EC9
+
+ Directory of D:\Users\Hasibur\Desktop\TestApp\resources\movie_posters
+
+2017-12-03  05:32 PM    <DIR>          .
+2017-12-03  05:32 PM    <DIR>          ..
+2017-12-03  04:45 PM           113,320 10_another_wolfcop.jpg
+2017-12-03  04:46 PM            87,290 11_the_disaster_artist.jpg
+2017-12-03  04:46 PM           124,664 12_the_man_who_invented_christmas.jpg
+2017-12-03  04:46 PM           102,032 13_roman_j_israel_esq.jpg
+2017-12-03  04:47 PM            51,170 14_three_billboards_outside_ebbing_missouri.jpg
+2017-12-03  04:47 PM           152,546 15_a_bad_moms_christmas.jpg
+2017-12-03  04:42 PM           187,426 1_coco.jpg
+2017-12-03  04:43 PM           152,167 2_justice_league.jpg
+2017-12-03  04:43 PM           170,354 3_wonder.jpg
+2017-12-03  04:43 PM           189,889 4_thor_ragnarok.jpg
+2017-12-03  04:43 PM           128,817 5_star_wars_the_last_jedi.jpg
+2017-12-03  04:44 PM           100,095 6_murder_on_the_orient_express.jpg
+2017-12-03  04:44 PM           142,352 7_daddys_home_2.jpg
+2017-12-03  04:44 PM           136,671 8_the_star.jpg
+2017-12-03  04:45 PM           105,436 9_lady_bird.jpg
+2017-12-03  05:32 PM                 0 test.txt
+              16 File(s)      1,944,229 bytes
+               2 Dir(s)  790,644,875,264 bytes free
