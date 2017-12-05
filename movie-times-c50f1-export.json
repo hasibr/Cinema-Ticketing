@@ -9,7 +9,9 @@
       "rating" : "M",
       "runtime" : "2h 08m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
+        "7a9fd407207f4950" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ],
+        "7a9fd407207f4952" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4953" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=Ga6RYejo6Hk"
     },
@@ -22,8 +24,9 @@
       "rating" : "M",
       "runtime" : "2h 01m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4952" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4953" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ],
+        "7a9fd407207f4950" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=r9-DM9uBtVI"
     },
@@ -36,8 +39,8 @@
       "rating" : "M",
       "runtime" : "1h 53m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4953" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4950" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=Ob7fPOzbmzE"
     },
@@ -50,8 +53,9 @@
       "rating" : "M",
       "runtime" : "2h 10m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4953" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ],
+        "7a9fd407207f4952" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=ue80QwXMRHg"
     },
@@ -64,8 +68,10 @@
       "rating" : "M",
       "runtime" : "2h 30m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+       "7a9fd407207f4952" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+       "7a9fd407207f4950" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ],
+       "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+       "7a9fd407207f4954" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=Gn0WzX3OcAU"
     },
@@ -78,8 +84,9 @@
       "rating" : "M",
       "runtime" : "1h 55m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4952" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4950" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=Mq4m3yAoW8E"
     },
@@ -92,8 +99,9 @@
       "rating" : "M",
       "runtime" : "1h 40m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4953" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4950" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4954" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=kgnDs3vSTV8"
     },
@@ -106,8 +114,9 @@
       "rating" : "G",
       "runtime" : "1h 26m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4950" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4954" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=o1eeu7Y4hxQ"
     },
@@ -120,8 +129,10 @@
       "rating" : "14+",
       "runtime" : "1h 33m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4952" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4950" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4954" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4953" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=cNi_HC839Wo"
     },
@@ -134,8 +145,9 @@
       "rating" : "M",
       "runtime" : "1h 40m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4952" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4954" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4953" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=dW12shHwhw8"
     },
@@ -148,8 +160,9 @@
       "rating" : "M",
       "runtime" : "1h 44m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4953" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4950" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4951" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=4qab3TMg42k"
     },
@@ -162,8 +175,9 @@
       "rating" : "M",
       "runtime" : "1h 45m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4953" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4952" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4954" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=xmBfjacqmTY"
     },
@@ -176,8 +190,9 @@
       "rating" : "M",
       "runtime" : "2h 02m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4954" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4950" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=T7zfdRHeSxA"
     },
@@ -190,8 +205,9 @@
       "rating" : "M",
       "runtime" : "1h 56m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4954" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4952" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4953" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=Jit3YhGx5pU"
     },
@@ -204,24 +220,41 @@
       "rating" : "M",
       "runtime" : "1h 41m",
       "showtimes" : {
-        "4c9f211a0800ff36" : [ "5:20am", "10:00am", "10:30am", "1:05pm", "1:35pm", "4:10pm", "4:40pm", "7:20pm", "7:50pm", "10:30pm", "11:00pm" ],
-        "7a9fd407207f4951" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ]
+        "7a9fd407207f4954" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4952" : [ "9:30am", "1:00pm", "4:30pm", "8:00pm" ],
+        "7a9fd407207f4950" : [ "10:00am", "1:30pm", "5:00pm", "8:30pm" ]
       },
       "trailer" : "https://www.youtube.com/watch?v=FJdNdMOblaM"
     }
   },
+
+
+
   "theatres" : {
-    "4c9f211a0800ff36" : {
-      "address" : "312 W. 34th St., New York, NY",
-      "id" : "4c9f211a0800ff36",
-      "name" : "AMC Loews 34th Street 14",
-      "phoneNumber" : "(888) 262-4386"
+    "7a9fd407207f4950" : {
+      "address" : "5095 Yonge St, North York, ON M2N 6Z4",
+      "id" : "7a9fd407207f4950",
+      "name" : "Cineplex Cinema Empress Walk"
     },
     "7a9fd407207f4951" : {
-      "address" : "260 West 23rd Street, New York, NY",
+      "address" : "2300 Yonge St, Toronto, ON M4P 1E4",
       "id" : "7a9fd407207f4951",
-      "name" : "Bow Tie Chelsea Cinemas",
-      "phoneNumber" : "(212) 691-4744"
+      "name" : "Cineplex Cinema Yonge-Eglinton and VIP"
+    },
+    "7a9fd407207f4952" : {
+      "address" : "10 Dundas St E #402, Toronto, ON M5B 2G9",
+      "id" : "7a9fd407207f4952",
+      "name" : "Cineplex Cinema Yonge-Dundas and VIP"
+    },
+    "7a9fd407207f4953" : {
+      "address" : "259 Richmond St W, Toronto, ON M5V 3M6",
+      "id" : "7a9fd407207f4953",
+      "name" : "Scotiabank Theatre Toronto"
+    },
+    "7a9fd407207f4954" : {
+      "address" : "3401 Dufferin St, North York, ON M6A 2T9",
+      "id" : "7a9fd407207f4954",
+      "name" : "Cineplex Cinema Yorkdale"
     }
   }
 }

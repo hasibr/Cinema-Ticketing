@@ -1,8 +1,10 @@
 const config = {
-  apiKey: "AIzaSyDs1sr83w3QQiFc2UV08_UkjbBaWK3RlO4",
-  authDomain: "movie-times-c50f1.firebaseapp.com",
-  databaseURL: "https://movie-times-c50f1.firebaseio.com",
-  projectId: "movie-times-c50f1",
+  apiKey: "AIzaSyDa4KgFGpTmjVuCKsNDTF4gIYniKF6_21w",
+  authDomain: "movieticketing-project.firebaseapp.com",
+  databaseURL: "https://movieticketing-project.firebaseio.com",
+  projectId: "movieticketing-project",
+  storageBucket: "movieticketing-project.appspot.com",
+  messagingSenderId: "1033260268462"
 };
 
 firebase.initializeApp(config);

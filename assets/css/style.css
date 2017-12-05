@@ -8,6 +8,11 @@ body {
     width: 85%;
     margin: 0 auto;
 }
+
+.carousel-caption-custom {
+    position: unset;
+}
+
 .carousel-inner {
     justify-content: space-between;
 }
@@ -28,11 +33,12 @@ body {
 }
 .carousel .item .col-xs-12 {
     padding: 5px;
+    cursor: pointer;
 }
 
 /* Search div container-fluid */
 .search-form {
-  width: 85%
+  width: 85%;
   margin: 0 auto;
 }
 
