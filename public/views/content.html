@@ -1,0 +1,51 @@
+<div class="container">
+  <div class="row">
+    <div class="carousel-showmanymoveone" uib-carousel active="active" interval="myInterval" no-wrap="noWrapSlides">
+      <div uib-slide ng-repeat="chunk in movies" index="$index">
+        <div class="col-xs-12 col-sm-6 col-md-2" ng-repeat="movie in chunk" ng-click="setSelectedMovie(movie)">
+          <img class="img-responsive" ng-src="../assets/img/movie_posters/{{formatImgName(movie.name)}}">
+          <div class="carousel-caption carousel-caption-custom">
+            <h4>{{movie.name}}</h4>
+            <p>{{movie.genre.join(', ')}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row" ng-show="selectedMovie">
+    <div class="col-sm-12">
+      <h5>{{selectedMovie.name}}</h5>
+      <p>{{selectedMovie.synopsis}}</p>
+    </div>
+  </div>
+</div>
+
+<div>
+  <div class="container typeahead-demo">
+    <div class="row">
+      <h3>Ticket</h3>
+      <div class="col-sm-6" >
+        <h4>Movie</h4>
+        <input ng-model="selectedTheatre" type="text" list="theatres" autocomplete="off" placeholder="Type or Select Theatre or City" class="theatre-datalist" ng-change="filterMovies()" />
+        <datalist id="theatres">
+          <option ng-repeat="theatre in theatres" value="{{theatre.name}}">{{theatre.address}}</option>
+        </datalist>
+
+        <h4>Theatre</h4>
+        <input type="text" list="movies" autocomplete="off" placeholder="Type or Select Movie" class="theatre-datalist" />
+        <datalist id="movies">
+          <option ng-repeat="movie in filteredMovies">{{movie.name}}</option>
+        </datalist>
+  
+        <h4>Day</h4>
+        <div class="day-select">
+          <input id="date" type="date" min="2017-11-30" max="2017-12-07">
+        </div>
+      </div>
+      <div class="col-sm-6">
+        2/2
+        <div class="row"><button type="button" class="btn btn-outline-primary">Primary</button></div>
+      </div>
+    </div>
+  </div>
+</div>
