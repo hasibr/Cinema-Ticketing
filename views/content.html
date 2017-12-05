@@ -25,44 +25,67 @@
     <div class="row">
       <h3>Ticket</h3>
       <div class="col-sm-6" >
-        <h4>Movie</h4>
-        <input ng-model="selectedTheatre" type="text" list="theatres" autocomplete="off" placeholder="Type or Select Theatre or City" class="theatre-datalist" ng-change="filterMovies()" />
-        <datalist id="theatres">
-          <option ng-repeat="theatre in theatres" value="{{theatre.name}}">{{theatre.address}}</option>
-        </datalist>
+        <form name="pickMovieTimeForm">
 
-        <h4>Theatre</h4>
-        <input type="text" list="movies" autocomplete="off" placeholder="Type or Select Movie" class="theatre-datalist" />
-        <datalist id="movies">
-          <option ng-repeat="movie in filteredMovies">{{movie.name}}</option>
-        </datalist>
+          <h4>Theatre</h4>
+          <input 
+            id="theatre"
+            ng-model="pickMovieTime.selectedTheatre"
+            type="text" list="theatres"
+            autocomplete="off" placeholder="Type or Select Theatre or City"
+            class="theatre-datalist"
+            ng-change="filterMovies()"
+            required
+          />
+          <datalist id="theatres">
+            <option ng-repeat="theatre in theatres">{{theatre.address}}</option>
+          </datalist>
   
-        <h4>Day</h4>
-        <div class="day-select">
-          <input id="date" type="date" min="2017-11-30" max="2017-12-07">
-        </div>
+          <h4>Movie</h4>
+          <input
+            id="movie"
+            ng-model="pickMovieTime.selectedMovie"
+            type="text"
+            list="movies"
+            autocomplete="off"
+            placeholder="Type or Select Movie"
+            class="theatre-datalist"
+            ng-change="findMovie()"
+            required
+          />
+          <datalist id="movies">
+            <option ng-repeat="movie in filteredMovies">{{movie.name}}</option>
+          </datalist>
+
+          <h4>Day</h4>
+          <p class="input-group">
+            <input
+              type="text"
+              class="form-control"
+              uib-datepicker-popup="{{format}}"
+              ng-model="pickMovieTime.date"
+              is-open="isDatePickerOpen"
+              datepicker-options="dateOptions"
+              required
+              close-text="Close"
+              alt-input-formats="altInputFormats"
+            />
+            <span class="input-group-btn">
+              <button type="button" class="btn btn-default" ng-click="openDatePicker()"><i class="glyphicon glyphicon-calendar"></i></button>
+            </span>
+          </p>
+        </form>
       </div>
-      <div class="col-sm-6">
-        2/2
-        <div class="row"><button type="button" class="btn btn-outline-primary">Primary</button></div>
+      <div class="col-sm-6" ng-show="pickMovieTimeForm.$valid">
+        <div class="row" ng-show="movieShowTimes">
+          <button type="button" class="btn btn-primary" ng-repeat="showtime in movieShowTimes">{{showtime}}</button>
+        </div> 
+        <div class="row" ng-show="!movieShowTimes">
+          <div class="col-md-12">
+            No times for the selected theatre
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </div>
-
-<!-- <script type="text/ng-template" id="customPopupTemplate.html">
-  <div class="custom-popup-wrapper"
-     ng-style="{top: position().top+'px', left: position().left+'px'}"
-     style="display: block;"
-     ng-show="isOpen() && !moveInProgress"
-     aria-hidden="{{!isOpen()}}">
-    <p class="message">Select location from drop down.</p>
-
-    <ul class="dropdown-menu" role="listbox">
-      <li class="uib-typeahead-match" ng-repeat="match in matches track by $index" ng-class="{active: isActive($index) }"
-        ng-mouseenter="selectActive($index)" ng-click="selectMatch($index)" role="option" id="{{::match.id}}">
-        <div uib-typeahead-match index="$index" match="match" query="query" template-url="templateUrl"></div>
-      </li>
-    </ul>
-  </div>
-</script> -->
